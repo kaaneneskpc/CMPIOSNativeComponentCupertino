@@ -1,6 +1,6 @@
 # Native iOS Components in Compose Multiplatform with Cupertino
 
-This project demonstrates how to effectively integrate native iOS components within Compose Multiplatform projects using Cupertino styling, creating a seamless cross-platform experience while maintaining native iOS look and feel.
+This project demonstrates how to effectively integrate native iOS components within Compose Multiplatform projects using Cupertino styling, creating a seamless cross-platform experience while maintaining native iOS look and feel. You can this more information about [cupertino](https://github.com/alexzhirkevich/compose-cupertino)
 
 ## Overview
 

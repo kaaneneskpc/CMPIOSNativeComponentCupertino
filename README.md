@@ -8,8 +8,8 @@ This project serves as a comprehensive example of implementing native iOS compon
 
 ## App Contents
 
-<img width="338" alt="Ekran Resmi 2025-02-09 17 14 28" src="https://github.com/user-attachments/assets/197c2e04-2f02-4c5f-8c41-5f984022e8b1" />
 <img width="388" alt="Ekran Resmi 2025-02-09 17 14 13" src="https://github.com/user-attachments/assets/21c7fe41-f3c3-46e6-88b2-f928fddb4a64" />
+<img width="338" alt="Ekran Resmi 2025-02-09 17 14 28" src="https://github.com/user-attachments/assets/197c2e04-2f02-4c5f-8c41-5f984022e8b1" />
 
 
 ## Tech Stack
